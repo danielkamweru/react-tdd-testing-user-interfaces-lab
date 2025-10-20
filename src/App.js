@@ -1,5 +1,12 @@
+// src/App.jsx
+import React from "react";
+
 function App() {
-  return <div>Your code here</div>;
+  return (
+    <div>
+      <h1>Hi, I'm Daniel</h1>
+    </div>
+  );
 }
 
 export default App;
