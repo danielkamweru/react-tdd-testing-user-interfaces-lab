@@ -4,7 +4,7 @@ import React from "react";
 function App() {
   return (
     <div>
-      <h1>Hi, I'm Daniel</h1>
+      <h1>Hi, I'm Daniel Kamweru</h1>
     </div>
   );
 }
